@@ -1,5 +1,7 @@
 #NKU ASE220 Mid-term
 
+### Note: server.js needs to be run with nodemon and live server running in order to work.
+
 ### What is it?:
 This is a website that allows users to post their experiences and information about concerts that they have been to. Here tthey can post, edit, and delete their reviews and browse others.
 
